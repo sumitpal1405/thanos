@@ -1,6 +1,6 @@
 type: AZURE
 config:
-  storage_account: "<account_name>"
-  storage_account_key: "<access_key>"
+  storage_account: "thanossumit"
+  storage_account_key: "QIc9Yw3/C6K6mhzOhrvsj4Ci2ms88L4eUu6QEkPKCG/hEU6fposy9jF1Yf4Z2kCZ1y7qxlcTO+zr+AStAO/zzg=="
   container: "thanos"
   max_retries: 0
